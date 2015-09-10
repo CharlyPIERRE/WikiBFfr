@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Elements">
+        <item>Feu</item>
+        <item>Eau</item>
+        <item>Terre</item>
+        <item>Foudre</item>
+        <item>Lumière</item>
+        <item>Ténèbres</item>
+    </string-array>
+    
+    <!-- Elements -->
+    <string name="Feu">Feu</string>
+    <string name="Eau">Eau</string>
+    <string name="Terre">Terre</string>
+    <string name="Foudre">Foudre</string>
+    <string name="Lumiere">Lumière</string>
+    <string name="Tenebres">Ténèbres</string>
+
+</resources>

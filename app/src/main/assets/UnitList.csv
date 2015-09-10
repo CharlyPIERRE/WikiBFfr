@@ -1,0 +1,484 @@
+﻿1;Escrimeur Vargas;2;Feu;12;2;10011
+2;Vargas de feu;3;Feu;40;4;10012
+3;Roi Vargas;4;Feu;60;8;10013
+4;Dieu Vargas;5;Feu;80;10;10014
+5;Séléna;2;Eau;12;2;20011
+6;Séléna de glace;3;Eau;40;4;20012
+7;Reine Séléna;4;Eau;60;8;20013
+8;Déesse Séléna;5;Eau;80;10;20014
+9;Soldat Lancelot;2;Terre;12;2;30011
+10;Lancelot nature;3;Terre;40;4;30012
+11;Lancelot de terre;4;Terre;60;8;30013
+12;Dieu Lancelot;5;Terre;80;10;30014
+13;Guerrier Eze;2;Foudre;12;2;40011
+14;Eze de foudre;3;Foudre;40;4;40012
+15;Roi Eze;4;Foudre;60;8;40013
+16;Dieu Eze;5;Foudre;80;10;40014
+17;Écuyer Atro;2;Lumière;30;2;50011
+18;Chevalier Atro;3;Lumière;40;4;50012
+19;Chev. sacré Atro;4;Lumière;60;8;50013
+20;Dieu Atro;5;Lumière;80;10;50014
+21;Magress de fer;2;Ténèbres;30;2;60011
+22;Puissant Magress;3;Ténèbres;40;4;60012
+23;Magress noir;4;Ténèbres;60;8;60013
+24;Magress mortel;5;Ténèbres;80;10;60014
+25;Bête Zegar;2;Feu;30;3;10021
+26;Zegar enragé;3;Feu;40;5;10022
+27;Zegar de feu;4;Feu;60;9;10023
+28;Zephu;2;Eau;30;3;20021
+29;Chevalier Zephu;3;Eau;40;5;20022
+30;Dragon Zephu;4;Eau;60;9;20023
+31;Archer Lario;2;Terre;30;3;30021
+32;Tireur Lario;3;Terre;40;5;30022
+33;Faucon Lario;4;Terre;60;9;30023
+34;Conseiller Weiss;2;Foudre;30;3;40021
+35;Stratège Weiss;3;Foudre;40;5;40022
+36;Commandant Weiss;4;Foudre;60;9;40023
+37;Luna;2;Lumière;30;3;50021
+38;Rayon de Luna;3;Lumière;40;5;50022
+39;Reine Luna;4;Lumière;60;9;50023
+40;Mifune;2;Ténèbres;30;3;60021
+41;Samouraï Mifune;3;Ténèbres;40;5;60022
+42;Dieu Mifune;4;Ténèbres;60;9;60023
+43;Brûleux;1;Feu;10;1;10030
+44;Roi Brûleux;2;Feu;30;3;10031
+45;Aqueux;1;Eau;10;1;20030
+46;Roi Aqueux;2;Eau;30;3;20031
+47;Mousseux;1;Terre;10;1;30030
+48;Roi Mousseux;2;Terre;30;3;30031
+49;Éclaireux;1;Foudre;10;1;40030
+50;Roi Éclaireux;2;Foudre;30;3;40031
+51;Lumineux;1;Lumière;10;1;50030
+52;Roi Lumineux;2;Lumière;30;3;50031
+53;Ténébreux;1;Ténèbres;10;1;60030
+54;Roi Ténébreux;2;Ténèbres;30;3;60031
+55;Sorcière Liza;1;Feu;15;2;10040
+56;Magicienne Liza;2;Feu;30;4;10041
+57;Prêtresse Mérith;1;Eau;15;2;20040
+58;Sorcière Mérith;2;Eau;30;4;20041
+59;Géomanc. Clara;1;Terre;15;2;30040
+60;Magicienne Clara;2;Terre;30;4;30041
+61;Danseuse May;1;Foudre;15;2;40040
+62;Étoile May;2;Foudre;30;4;40041
+63;Sage Mimir;1;Lumière;15;2;50040
+64;Seigneur Mimir;2;Lumière;30;4;50041
+65;Sorcière Lily;1;Ténèbres;15;2;60040
+66;Magicienne Lily;2;Ténèbres;30;4;60041
+67;Gobelin;1;Feu;12;2;10050
+68;Têtrouge;2;Feu;30;4;10051
+69;Triton;1;Eau;12;2;20050
+70;Sahuagin;2;Eau;30;4;20051
+71;Mandragore;1;Terre;12;2;30050
+72;Poliévik;2;Terre;30;4;30051
+73;Harpie;1;Foudre;12;2;40050
+74;Aéro;2;Foudre;30;4;40051
+75;Ange;1;Lumière;12;2;50050
+76;Archange;2;Lumière;30;4;50051
+77;Squelette;1;Ténèbres;12;2;60050
+78;Roi Squelette;2;Ténèbres;30;4;60051
+79;Voleur Léon;2;Feu;30;3;10061
+80;Chef voleur Léon;3;Feu;40;6;10062
+81;Pirate Vérico;2;Eau;30;3;20061
+82;Pillard Vérico;3;Eau;40;6;20062
+83;Bandit Zazou;2;Terre;30;3;30061
+84;Chef Zazou;3;Terre;40;6;30062
+85;Pirate Grafl;2;Foudre;30;3;40061
+86;Chef Grafl;3;Foudre;40;6;40062
+87;Orthos;2;Feu;30;2;10071
+88;Cerbère;3;Feu;40;5;10072
+89;Ramia;2;Eau;30;2;20071
+90;Scylla;3;Eau;40;5;20072
+91;Fée;2;Terre;30;2;30071
+92;Titania;3;Terre;40;5;30072
+93;Minotaure;2;Foudre;30;2;40071
+94;Cyclope;3;Foudre;40;5;40072
+95;Licorne;2;Lumière;30;3;50060
+96;Pégase;3;Lumière;40;6;50061
+97;Méduse;2;Ténèbres;30;3;60061
+98;Zahhak;3;Ténèbres;40;6;60062
+99;Salamandre;2;Feu;30;2;10081
+100;Ifrit;3;Feu;40;5;10082
+101;Rantoul;2;Eau;30;2;20081
+102;Legtos;3;Eau;40;4;20082
+103;Trent;2;Terre;30;2;30081
+104;Ent;3;Terre;40;4;30082
+105;Sylphide;2;Foudre;30;2;40081
+106;Djinn;3;Foudre;40;4;40082
+107;Prêtresse Maria;2;Lumière;30;2;50071
+108;Ange Maria;3;Lumière;40;4;50072
+109;Lilin;2;Ténèbres;30;2;60071
+110;Succube;3;Ténèbres;40;4;60072
+111;Dragofeu;3;Feu;40;5;10092
+112;Dragofour;4;Feu;60;8;10093
+113;Ondine;3;Eau;40;5;20092
+114;Sirène;4;Eau;60;8;20093
+115;Dryade;3;Terre;40;5;30092
+116;Haute elfe;4;Terre;60;8;30093
+117;Oiseau-foudre;3;Foudre;40;5;40092
+118;Grand faucon Ziz;4;Foudre;60;8;40093
+119;Valkyrie;3;Lumière;40;5;50082
+120;Héroïne Athéna;4;Lumière;60;8;50083
+121;Vampire;3;Ténèbres;40;5;60082
+122;Liche;4;Ténèbres;60;8;60083
+123;Chevalier Agni;3;Feu;40;5;10102
+124;Agni de feu;4;Feu;60;8;10103
+125;Chevalier Sergio;3;Eau;40;5;20102
+126;Chef Sergio;4;Eau;60;8;20103
+127;Princesse Lidith;3;Terre;40;5;30102
+128;Reine Lidith;4;Terre;60;8;30103
+129;Chevalier Falma;3;Foudre;40;5;40102
+130;Roi Falma;4;Foudre;60;8;40103
+131;Shérif Heidt;3;Lumière;40;5;50092
+132;Tir. sacré Heidt;4;Lumière;60;8;50093
+133;Shida;3;Ténèbres;40;5;60092
+134;Étrangleur Shida;4;Ténèbres;60;8;60093
+135;Phénix;3;Feu;40;5;10112
+136;Phénix de lave;4;Feu;60;8;10113
+137;Dieu Phénix;5;Feu;80;12;10114
+138;Léviathan;3;Eau;40;5;20112
+139;Loch Ness;4;Eau;60;8;20113
+140;Malnaplis;5;Eau;80;12;20114
+141;Alneu Grand'arbre;3;Terre;40;5;30112
+142;Altro Arbremonde;4;Terre;60;8;30113
+143;Eltri Arbredieu;5;Terre;80;12;30114
+144;Béhémoth;3;Foudre;40;5;40112
+145;Roi Béhémoth;4;Foudre;60;8;40113
+146;Béhémoth Alpha;5;Foudre;80;12;40114
+147;Vouivre;3;Lumière;40;5;50102
+148;Bahamut;4;Lumière;60;8;50103
+149;Rameldria;5;Lumière;80;12;50104
+150;Memetes;3;Ténèbres;40;5;60102
+151;Roi Hadès;4;Ténèbres;60;8;60103
+152;Dieu Logada;5;Ténèbres;80;12;60104
+153;Lave;3;Feu;40;5;10122
+154;Chevalier Lave;4;Feu;60;8;10123
+155;Déesse Lave;5;Feu;80;12;10124
+156;Capitaine Méga;3;Eau;40;5;20122
+157;Guerrier Méga;4;Eau;60;8;20123
+158;Commandant Méga;5;Eau;80;12;20124
+159;Artilleur Douglas;3;Terre;40;5;30122
+160;Roi Douglas;4;Terre;60;8;30123
+161;Dieu Douglas;5;Terre;80;12;30124
+162;Emilia;3;Foudre;40;5;40122
+163;Princesse Emilia;4;Foudre;60;8;40123
+164;Déesse Emilia;5;Foudre;80;12;40124
+165;Chevalier Will;3;Lumière;40;5;50112
+166;Paladin Will;4;Lumière;60;8;50113
+167;Dieu Will;5;Lumière;80;12;50114
+168;Alice;3;Ténèbres;40;5;60112
+169;Faucheuse Alice;4;Ténèbres;60;8;60113
+170;Déesse Alice;5;Ténèbres;80;12;60114
+171;Nymphe de feu;1;Feu;1;2;10130
+172;Nymphe d'eau;1;Eau;1;2;20130
+173;Nymphe de terre;1;Terre;1;2;30130
+174;Nymphe de foudre;1;Foudre;1;2;40130
+175;Nymphe de lumière;1;Lumière;1;2;50120
+176;Nymphe Ténèbres;1;Ténèbres;1;2;60120
+177;Esprit de feu;2;Feu;1;5;10131
+178;Esprit d'eau;2;Eau;1;5;20131
+179;Esprit de terre;2;Terre;1;5;30131
+180;Esprit de foudre;2;Foudre;1;5;40131
+181;Esprit de lumière;2;Lumière;1;5;50121
+182;Esprit Ténèbres;2;Ténèbres;1;5;60121
+183;Idole de feu;3;Feu;1;8;10132
+184;Idole d'eau;3;Eau;1;8;20132
+185;Idole de terre;3;Terre;1;8;30132
+186;Idole de foudre;3;Foudre;1;8;40132
+187;Idole de lumière;3;Lumière;1;8;50122
+188;Idole de Ténèbres;3;Ténèbres;1;8;60122
+189;Totem de feu;4;Feu;1;10;10133
+190;Totem d'eau;4;Eau;1;10;20133
+191;Totem de terre;4;Terre;1;10;30133
+192;Totem de foudre;4;Foudre;1;10;40133
+193;Totem de lumière;4;Lumière;1;10;50123
+194;Totem de Ténèbres;4;Ténèbres;1;10;60123
+195;Fantôme Bijou;2;Lumière;1;3;50131
+196;Roi Bijou;3;Lumière;1;6;50132
+197;Dieu Bijou;4;Lumière;1;9;50133
+198;Fantôme de Métal;3;Ténèbres;1;3;60132
+199;Roi de Métal;4;Ténèbres;1;6;60133
+200;Dieu de Métal;5;Ténèbres;1;9;60134
+201;Imitacoffre;3;Ténèbres;1;2;60142
+202;Imitacoffre ailé;4;Ténèbres;1;6;60143
+203;Forgeron Galant;2;Feu;30;4;10141
+204;Colosse Galant;3;Feu;40;6;10142
+205;Divin Galant;4;Feu;60;10;10143
+206;Stya;2;Eau;30;4;20141
+207;Épéiste Stya;3;Eau;40;6;20142
+208;Reine Stya;4;Eau;60;10;20143
+209;Boxeuse Némia;2;Terre;30;4;30141
+210;Lutteuse Némia;3;Terre;40;6;30142
+211;Gros bras Némia;4;Terre;60;10;30143
+212;Zeln;2;Foudre;30;4;40141
+213;Zeln l'éclair;3;Foudre;40;6;40142
+214;Zeln foudroyant;4;Foudre;60;10;40143
+215;Voyageuse Alma;2;Lumière;30;4;50141
+216;Aventurière Alma;3;Lumière;40;6;50142
+217;Héroïne Alma;4;Lumière;60;10;50143
+218;Ninja Oboro;2;Ténèbres;30;4;60151
+219;Assassin Oboro;3;Ténèbres;40;6;60152
+220;Ombre Oboro;4;Ténèbres;60;10;60153
+221;Lancia;3;Feu;40;5;10152
+222;Cuistot Lancia;4;Feu;60;8;10153
+223;Chef Lancia;5;Feu;80;12;10154
+224;Élimie;3;Eau;40;5;20152
+225;Élimie royale;4;Eau;60;8;20153
+226;Génie Élimie;5;Eau;80;12;20154
+227;Pixie Léore;3;Terre;40;5;30152
+228;Pixie royal Léore;4;Terre;60;8;30153
+229;Pixie Roi Léore;5;Terre;80;12;30154
+230;Élulu bricoleuse;3;Foudre;40;5;40152
+231;Élulu inventive;4;Foudre;60;8;40153
+232;Élulu fulgurante;5;Foudre;80;12;40154
+233;Chevalier Aem;3;Lumière;40;5;50152
+234;Champion Aem;4;Lumière;60;8;50153
+235;Maître Aem;5;Lumière;80;12;50154
+236;Lémia;3;Ténèbres;40;5;60162
+237;Nécromante Lémia;4;Ténèbres;60;8;60163
+238;Voleuse Lémia;5;Ténèbres;80;12;60164
+239;Lorand;3;Feu;40;7;10162
+240;Professeur Lorand;4;Feu;60;10;10163
+241;Maître Lorand;5;Feu;80;15;10164
+242;Dean;3;Eau;40;7;20162
+243;Mage Dean;4;Eau;60;10;20163
+244;Haut mage Dean;5;Eau;80;15;20164
+245;Édéa;3;Terre;40;7;30162
+246;Chevalier Édéa;4;Terre;60;10;30163
+247;Mère Édéa;5;Terre;80;15;30164
+248;Loch;3;Foudre;40;7;40162
+249;Archer Loch;4;Foudre;60;10;40163
+250;Archer divin Loch;5;Foudre;80;15;40164
+254;Fantôme de feu;3;Feu;1;3;10202
+255;Roi de feu;4;Feu;1;6;10203
+256;Dieu de feu;5;Feu;1;9;10204
+257;Fantôme d'eau;3;Eau;1;3;20202
+258;Roi d'eau;4;Eau;1;6;20203
+259;Dieu d'eau;5;Eau;1;9;20204
+260;Fantôme de terre;3;Terre;1;3;30202
+261;Roi de terre;4;Terre;1;6;30203
+262;Dieu de terre;5;Terre;1;9;30204
+263;Fantôme de foudre;3;Foudre;1;3;40202
+264;Roi de foudre;4;Foudre;1;6;40203
+265;Dieu de foudre;5;Foudre;1;9;40204
+266;Fantôme de lumière;3;Lumière;1;3;50202
+267;Roi de lumière;4;Lumière;1;6;50203
+268;Dieu de lumière;5;Lumière;1;9;50204
+269;Orque;2;Feu;30;3;10171
+270;Ogre;3;Feu;40;5;10172
+271;Wendigo;2;Eau;30;3;20171
+272;Hrungnir;3;Eau;40;5;20172
+273;Nain;2;Terre;30;3;30171
+274;Prince nain;3;Terre;40;5;30172
+275;Empusa;2;Foudre;30;3;40171
+276;Gorgone;3;Foudre;40;5;40172
+277;Al-mi'raj;2;Lumière;30;3;50171
+278;Cait Sith;3;Lumière;40;5;50172
+279;Lutin;2;Ténèbres;30;3;60181
+280;Incube;3;Ténèbres;40;5;60182
+281;Mage de feu Liza;3;Feu;40;6;10042
+282;Évêque Merith;3;Eau;40;6;20042
+283;Chronomage Clara;3;Terre;40;6;30042
+284;May royale;3;Foudre;40;6;40042
+285;Grand Sage Mimir;3;Lumière;40;6;50042
+286;Ténébreuse Lily;3;Ténèbres;40;6;60042
+287;Chef dragon Aisha;3;Feu;40;7;10212
+288;Seigneur Aisha;4;Feu;60;10;10213
+289;Reine Aisha;5;Feu;80;15;10214
+290;Rickel Joyaux;3;Eau;40;7;20212
+291;Rickel Éclairs;4;Eau;60;10;20213
+292;Rickel Tireur;5;Eau;80;15;20214
+293;Jumelles Il & Mina;3;Terre;40;7;30212
+294;Il & Mina de terre;4;Terre;60;10;30213
+295;Gémeaux Il & Mina;5;Terre;80;15;30214
+296;Amy Éclair;3;Foudre;40;7;40212
+297;Chevalière Amy;4;Foudre;60;10;40213
+298;Déesse Amy;5;Foudre;80;15;40214
+299;Sefia Huit-Lames;3;Lumière;40;7;50162
+300;Sefia Tempête;4;Lumière;60;10;50163
+301;Reine Sefia;5;Lumière;80;15;50164
+302;Kikuri;3;Ténèbres;40;7;60172
+303;Kikuri gothique;4;Ténèbres;60;10;60173
+304;Idole Kikuri;5;Ténèbres;80;15;60174
+305;Imitacof. dragon;5;Ténèbres;1;10;60144
+306;Pot de feu;3;Feu;1;1;10191
+307;Pot d'eau;3;Eau;1;1;20191
+308;Pot de terre;3;Terre;1;1;30191
+309;Pot de foudre;3;Foudre;1;1;40191
+310;Pot de lumière;3;Lumière;1;1;50191
+311;Pot de ténèbres;3;Ténèbres;1;1;60201
+312;Méga voleur Léon;4;Feu;60;9;10063
+313;Prince Verica;4;Eau;60;9;20063
+314;Sauvage Zazou;4;Terre;60;9;30063
+315;Empereur Grafl;4;Foudre;60;9;40063
+316;Disciple Zebra;4;Ténèbres;60;10;60233
+317;Dieu fou Zebra;5;Ténèbres;80;15;60234
+318;Escrimeuse Seria;4;Feu;60;10;10233
+319;Déesse Seria;5;Feu;80;15;10234
+320;Roi-bête Zegar;5;Feu;80;14;10024
+321;Héros Zephu;5;Eau;80;14;20024
+322;Dieu Lario;5;Terre;80;14;30024
+323;Général Weiss;5;Foudre;80;14;40024
+324;Impératrice Luna;5;Lumière;80;14;50024
+325;Mifune Ryujin;5;Ténèbres;80;14;60024
+326;Agni de magma;5;Feu;80;13;10104
+327;Sergio des glaces;5;Eau;80;13;20104
+328;Impératr. Lidith;5;Terre;80;13;30104
+329;Légende Falma;5;Foudre;80;13;40104
+330;Dieu Heidt;5;Lumière;80;13;50094
+331;Exécuteur Shida;5;Ténèbres;80;13;60094
+332;Totem Miracle;5;Lumière;1;1;50354
+333;Explonouille;3;Feu;1;1;10312
+334;Chevalier Karl;4;Eau;60;12;20233
+335;Guerrier Karl;5;Eau;80;20;20234
+336;Lugina;4;Terre;60;10;30233
+337;Lugina de Gaïa;5;Terre;80;15;30234
+338;Vargas feu sacré;6;Feu;100;20;10015
+339;Séléna Impériale;6;Eau;100;20;20015
+340;Saint Lancelot;6;Terre;100;20;30015
+341;Eze Sainte Foudre;6;Foudre;100;20;40015
+342;Atro divin;6;Lumière;100;20;50015
+343;Magress Impie;6;Ténèbres;100;20;60015
+344;Gardien Gilnea;5;Lumière;80;16;50344
+346;Michele Hachrouge;4;Feu;60;8;10253
+347;Michele Lotus;5;Feu;80;13;10254
+348;Tiara Ange froid;4;Eau;60;8;20253
+349;Tiara Apôtre;5;Eau;80;13;20254
+350;Zelban Balafré;4;Terre;60;8;30253
+351;Zelban escrimeur;5;Terre;80;13;30254
+352;Lodin le Dragon;4;Foudre;60;8;40253
+353;Dieu Lodin;5;Foudre;80;13;40254
+354;Soldat Melchio;4;Lumière;60;8;50273
+355;Caporal Melchio;5;Lumière;80;13;50274
+356;Duel-GX;4;Ténèbres;60;8;60253
+357;Duel-GX II;5;Ténèbres;80;13;60254
+358;Malvan;4;Feu;60;8;10083
+359;Legnaura;4;Eau;60;8;20083
+360;Xipe Totec;4;Terre;60;8;30083
+361;Corbeau tengu;4;Foudre;60;8;40083
+362;Sainte Marie;4;Lumière;60;8;50073
+363;Nyx;4;Ténèbres;60;8;60073
+364;Dalimaone;5;Feu;80;12;10094
+365;Meltia;5;Eau;80;12;20094
+366;Lemenara;5;Terre;80;12;30094
+367;Zazabis;5;Foudre;80;12;40094
+368;Jonas légendaire;5;Lumière;80;12;50084
+369;Légion;5;Ténèbres;80;12;60084
+370;Phénix immortel;6;Feu;100;22;10115
+371;Felneus;6;Eau;100;22;20115
+372;Arbre alpha Altri;6;Terre;100;22;30115
+373;Béhémoth Omega;6;Foudre;100;22;40115
+374;Duelmex;6;Lumière;100;22;50105
+375;Dillas des Enfers;6;Ténèbres;100;22;60105
+377;Démon Vishra;4;Feu;60;10;10283
+378;Rakshasa Vishra;5;Feu;80;15;10284
+379;Robot Reeze;4;Eau;60;10;20283
+380;Mecha Reeze;5;Eau;80;15;20284
+381;Dilma pugiliste;4;Terre;60;10;30283
+382;Dilma boxeur;5;Terre;80;15;30284
+383;Rashil électrique;4;Foudre;60;10;40283
+384;Rashil éclair;5;Foudre;80;15;40284
+385;Lilith Cyborg;4;Lumière;60;10;50313
+386;Lilith Cyborg II;5;Lumière;80;15;50314
+387;Logan épéiste;4;Ténèbres;60;10;60283
+388;Logan démoniaque;5;Ténèbres;80;15;60284
+389;Paris paladin;4;Foudre;60;12;40233
+390;Paris garde;5;Foudre;80;15;40234
+391;Freya;4;Feu;60;10;10243
+392;Freya de feu;5;Feu;80;15;10244
+393;Eliza;4;Eau;60;10;20243
+394;Sibylle Eliza;5;Eau;80;15;20244
+395;Paula;4;Terre;60;10;30243
+396;Paula Rose;5;Terre;80;15;30244
+397;Zele;4;Foudre;60;10;40243
+398;Sibylle Zele;5;Foudre;80;15;40244
+399;Sola;4;Lumière;60;10;50263
+400;Sibylle Sola;5;Lumière;80;15;50264
+401;Madia;4;Ténèbres;60;10;60243
+402;Sibylle Madia;5;Ténèbres;80;15;60244
+415;Homusubi;4;Feu;60;12;10273
+416;Kagutsuchi;5;Feu;80;16;10274
+417;Donjon Copra;4;Eau;60;12;20273
+418;Tour Tesla;5;Eau;80;16;20274
+419;Golem;4;Terre;60;12;30273
+420;Grand Golem;5;Terre;80;16;30274
+421;Ange Kushra;4;Foudre;60;12;40273
+422;Rebelle Elsel;5;Foudre;80;16;40274
+423;Lebra blanc;4;Lumière;60;12;50303
+424;Lubradine;5;Lumière;80;16;50304
+425;Lira Sang Mêlé;4;Ténèbres;60;12;60273
+426;Lira Magistra;5;Ténèbres;80;16;60274
+429;Cristal de feu;5;Feu;1;12;10344
+430;Cristal d'eau;5;Eau;1;12;20334
+431;Cristal de terre;5;Terre;1;12;30324
+432;Cristal de foudre;5;Foudre;1;12;40324
+433;Cristal de lumière;5;Lumière;1;12;50364
+434;Cristal de ténèbres;5;Ténèbres;1;12;60334
+435;Seigneur Galant;5;Feu;80;15;10144
+436;Stya des neiges;5;Eau;80;15;20144
+437;Némia secousse;5;Terre;80;15;30144
+438;Zeln électrique;5;Foudre;80;15;40144
+439;Courageuse Alma;5;Lumière;80;15;50144
+440;Oboro ombre rouge;5;Ténèbres;80;15;60154
+441;Lava sacré;6;Feu;100;22;10125
+442;Roi des mers Méga;6;Eau;100;22;20125
+443;Douglas sacré;6;Terre;100;22;30125
+444;Électro Emilia;6;Foudre;100;22;40125
+445;Gardien Will;6;Lumière;100;22;50115
+446;Alice des Enfers;6;Ténèbres;100;22;60115
+447;Farlon tranchant;4;Feu;60;12;10333
+448;Farlon escrimeur;5;Feu;80;16;10334
+449;Lionceau Signas;4;Eau;60;12;20323
+450;Lion Signas;5;Eau;80;16;20324
+451;Chaotique Luly;4;Terre;60;12;30313
+452;Reine Luly;5;Terre;80;16;30314
+453;Guerrière Rina;4;Foudre;60;12;40313
+454;Chevalier Rina;5;Foudre;80;16;40314
+455;Cavalier Sodis;4;Lumière;60;12;50383
+456;Combattant Sodis;5;Lumière;80;16;50384
+457;Lunaris charmante;4;Ténèbres;60;12;60313
+458;Lunaris maudite;5;Ténèbres;80;16;60314
+701;Vagabond Jack;4;Feu;60;6;710013
+702;Lancier Jack;5;Feu;80;13;710014
+703;Père Noël;5;Lumière;80;13;750014
+704;Michele Hache de Noël;5;Feu;80;13;710254
+705;Tiara Apôtre de Noël;5;Eau;80;13;720254
+706;Dilma Poing de l'Hiver;5;Terre;80;15;730284
+707;Rashil Mage des Fêtes;5;Foudre;80;15;740284
+708;Lilith II Cyborg de Noël;5;Lumière;80;15;750314
+709;Logan aux Lames gelées;5;Ténèbres;80;15;760284
+710;Douglas Le Blanc;6;Terre;100;22;730125
+711;Fantôme lumineu de Noël;3;Lumière;1;3;750202
+712;Roi lumineu de Noël;4;Lumière;1;6;750203
+713;Dieu lumineu de Noël;5;Lumière;1;9;750204
+714;Skalmold;4;Feu;60;10;710113
+715;Skalmold Sacrée;5;Feu;80;15;710114
+716;Svafa;4;Eau;60;10;720113
+717;Svafa sacrée;5;Eau;80;15;720114
+718;Eir;4;Terre;60;10;730113
+719;Eir sacrée;5;Terre;80;12;730114
+720;Thrud;4;Foudre;60;10;740113
+721;Thrud sacrée;5;Foudre;80;15;740114
+722;Alvitr;4;Lumière;60;10;750113
+723;Alvitr sacrée;5;Lumière;80;15;750114
+724;Geirdriful;4;Ténèbres;60;10;760113
+725;Geirdriful sacrée;5;Ténèbres;80;15;760114
+726;Idole des Scandinaves;3;Lumière;1;8;750122
+727;Sergio l'Amoureux;5;Eau;80;13;720104
+8000;Demoiselle Lico;3;Ténèbres;40;6;860003
+8001;Épéiste Lico;4;Ténèbres;60;10;860004
+8002;Démone Lico;5;Ténèbres;80;15;860005
+8003;Jeune Cayena;3;Feu;40;6;810003
+8004;Cayena fusée;4;Feu;60;10;810004
+8005;Cayena missile;5;Feu;80;15;810005
+8006;Jeune Serin;3;Eau;40;6;820003
+8007;Serin mitrailleuse;4;Eau;60;10;820004
+8008;Serin élite;5;Eau;80;15;820005
+8009;Jeune Bayley;3;Terre;40;6;830003
+8010;Bayley Nyan;4;Terre;60;10;830004
+8011;Bayley sauvage;5;Terre;80;15;830005
+8012;Jeune Fennia;3;Foudre;40;6;840003
+8013;Bombe Fennia;4;Foudre;60;10;840004
+8014;Grenade Fennia;5;Foudre;80;15;840005
+8015;Jeune Vanila;3;Lumière;40;6;850003
+8016;Reine Vanila;4;Lumière;60;10;850004
+8017;Ange Vanila;5;Lumière;80;15;850005
